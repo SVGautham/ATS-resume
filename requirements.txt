@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain
+python-docx
+nltk
+language-tool-python
